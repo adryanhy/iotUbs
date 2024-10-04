@@ -1,5 +1,5 @@
 
-#  Sistema de Monitoramento de Equipamentos IoT
+# 🌡 Sistema de Monitoramento de Equipamentos IoT
 
 Este projeto é uma aplicação desenvolvida para monitorar equipamentos IoT, rastreando dados como **localização**, **temperatura**, **nome** e **status operacional** de cada dispositivo.
 
@@ -30,8 +30,8 @@ Este projeto é uma aplicação desenvolvida para monitorar equipamentos IoT, ra
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/adryanhy/iotUbs.git
+   cd iotUbs
    ```
 
 2. **Crie e ative um ambiente virtual:**
@@ -65,7 +65,7 @@ Este projeto é uma aplicação desenvolvida para monitorar equipamentos IoT, ra
    http://localhost:8000
    ```
 
-### (Opcional) Para rodar o front-end:
+### Para rodar o front-end:
 
 Se estiver utilizando React ou outra biblioteca:
 

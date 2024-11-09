@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Adryan\OneDrive\Desktop\Projetos\TG2-IotUBS\venv"
+VIRTUAL_ENV="C:\Users\Adryan\OneDrive\Desktop\Projetos\iotUbs\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
